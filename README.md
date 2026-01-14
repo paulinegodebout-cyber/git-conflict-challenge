@@ -1,1 +1,1 @@
-# git-conflict-challenge
+Hello from local!
